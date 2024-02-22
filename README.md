@@ -10,7 +10,19 @@
 <a href="https://github.com/fanxulasalle"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 Estudiante de Grado Superior en La Salle Gracia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Grado medio SMX en l'Escola del Treball 
+
+- 💻 Grado medio SMX en l'Escola del Treball</br>
+   --Mantenimiento, reparación y montaje de ordenadores</br>
+   --Instalación de sistemas operativos y redes</br>
+   --Programación básica HTML y java</br>
+   --Manejo del Linux y máquinas virtuales</br>
+- 🀄 Lenguajges</br>
+   --Chino básico</br>
+   --Ingles nivel medio</br>
+   --Catalán nivel medio</br>
+   --Castellano nivel nativo</br>
+- ⏳ En un futuro me gustaría trabajar en creación de proyectos, en solitario o en grupo. Aprender nuevos lenguajes y poder conocer todos los apartados sobre la programación. Adquirir conocimientos nuevos en  solitario o por compañeros y seguir creciendo en el sector.
+
 - ⚡ Hardware lover
 
 
